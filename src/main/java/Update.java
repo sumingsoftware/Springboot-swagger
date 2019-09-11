@@ -1,4 +1,4 @@
 
 public class Update {
-    private String name = "git";
+    private String name = "git1";
 }
